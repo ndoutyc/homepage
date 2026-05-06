@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Reviewed security headers configuration
 - Added .editorconfig for consistent formatting
+
+## 2026-05-06
+- Resolved TODO items from previous session
+- Wrote notes on upcoming feature design
